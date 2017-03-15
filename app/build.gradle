@@ -32,4 +32,6 @@ dependencies {
     compile 'com.android.support:appcompat-v7:25.0.1'
     testCompile 'junit:junit:4.12'
     compile files('src/main/jniLibs/BaiduLBS_Android.jar')
+    compile files('src/main/jniLibs/httpmime-4.1.2.jar')
+    compile files('src/main/jniLibs/IndoorscapeAlbumPlugin.jar')
 }
